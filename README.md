@@ -1,19 +1,10 @@
-# helloworld-electron-vue
+# electron-vue
 
-## Project setup
-```
-yarn install
-```
+### 使用electron做桌面程序，vue做界面
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### electron的技术做菜单栏、右下角图标、右键菜单、窗口、剪切板、文件框、快捷键、打包
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### vue和element-ui做的界面
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 没有什么创新的地方，是一个学习的记录，就不详解了，也许以后做的好会删掉，目前先这样
+
